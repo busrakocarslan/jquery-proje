@@ -5,4 +5,4 @@ HTML
 CSS
 jQuery
 PokéAPI
-# <img src="jquaryPoke-gif.gif" alt="gif>
+## <img src="./jquaryPoke-gif.gif" >
